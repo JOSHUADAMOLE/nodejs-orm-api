@@ -1,9 +1,17 @@
 {
+<<<<<<< HEAD
     "database" : {
         "host": "localhost",
         "port": 3306,
         "user": "root",
         "password":"",
+=======
+    "database": {
+        "host": "localhost",
+        "port": "3306",
+        "user": "root",
+        "password": "",
+>>>>>>> 4ce08a2 (updated)
         "database": "node-mysql-crud-api"
     }
 }
